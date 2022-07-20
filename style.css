@@ -199,4 +199,24 @@ background:#000000f0;}
 }
 .upcomming_date_bottom p{font-size: 16px;
     
+} 
+.group{    display: flex;
+    width: 78%;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.group_team{    border: 1px solid #00000036;
+    border-radius: 14px;
+    padding: 32px;
+    background: #8b89895c;
+
+}
+.group_team h6{ font-size: 36px; 
+    padding: 5px;margin-bottom: 5px;
+
+}
+.group_team li{   font-size: 28px; 
+      
 }
